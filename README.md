@@ -12,4 +12,5 @@ Key Insights:
 • Marketing & Finance students secured the highest placements.
 • Students with work experience showed strong placement outcomes.
 • Gender-wise placement distribution was analyzed using interactive filters.
-<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/5f15ee91-b05e-49ef-bcfb-657f0630124e" />
+<img width="1858" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/f9a8d3ca-1bec-459e-9880-9ae40e1d5b23" />
+
