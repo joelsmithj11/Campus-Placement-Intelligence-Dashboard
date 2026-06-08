@@ -55,3 +55,7 @@ To view and interact with this project, ensure you have:
 - `Placement_Data_Full_Class.csv` – Dataset used
 - `Screenshot 1.png` – Dashboard preview
 - `README.md` – Project documentation
+
+Author:
+Joel Smith J
+MCA
