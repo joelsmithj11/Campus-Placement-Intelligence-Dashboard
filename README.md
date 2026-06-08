@@ -1,6 +1,16 @@
 # Campus-Placement-Intelligence-Dashboard
 This Power BI dashboard analyzes student placement trends, salary insights, specialization performance, gender distribution, and the impact of work experience on campus placements.
 
+## Problem Statement
+Educational institutions need to understand factors affecting student placements.
+
+This dashboard helps identify:
+- Placement trends
+- Salary patterns
+- Impact of work experience
+- Gender-wise placement distribution
+- Specialization performance
+  
 Tools Used:
 • Power BI
 • Power Query
@@ -15,6 +25,13 @@ Key Insights:
 
 ## Dashboard Preview
 <img width="1858" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/f9a8d3ca-1bec-459e-9880-9ae40e1d5b23" />
+
+## Recommendations
+
+1. Encourage internship participation.
+2. Focus training on low-performing specializations.
+3. Conduct placement preparation workshops.
+4. Strengthen industry partnerships.
 
 ## Requirements
 
